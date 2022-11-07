@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667437384 source:c:\users\igorc\onedrive\documentos\uesc\aviao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667437384 source:c:\users\igorc\onedrive\documentos\uesc\trabalhoslp\aviao\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667351575 source:c:\users\igorc\onedrive\documentos\uesc\poltronabuss\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667783539 source:c:\users\igorc\onedrive\documentos\uesc\trabalhoslp\poltronabuss\main.c
+	<stdio.h>
+	<stdlib.h>
+
